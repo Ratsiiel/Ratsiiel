@@ -24,5 +24,14 @@ subprojects {
 }
 ```
 
+## Maven 🐦
+```xml
+<repositories>
+  <repository>
+    <id>Ratsiel</id>
+    <url>http://repo.ratsiel.me</url>
+  </repository>
+</repositories>
+```
 
    
