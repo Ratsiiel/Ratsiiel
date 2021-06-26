@@ -5,7 +5,7 @@
 
 ### My Repository
 ## Gradle 🐘
-### Normal:
+- ### Normal
 ```gradle
 repositories {
     maven {
@@ -13,7 +13,7 @@ repositories {
     }
 }
 ```
-### Multi:
+- ### Multi
 ```gradle
 subprojects {
     repositories {
