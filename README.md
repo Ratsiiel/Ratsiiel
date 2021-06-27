@@ -1,8 +1,8 @@
-## Metrics
+## 🎫 Metrics
 
 ![Metrics](https://github.com/Ratsiiel/Ratsiiel/blob/repository/github-metrics.svg)
 
-## Data
+## 💾 Data
 - [Github](https://github.com/Ratsiiel)
 - 📫 Discord: **Ratsiel#8923**
 
@@ -11,7 +11,7 @@
  - [region-library](https://github.com/Ratsiiel/region-library)
  - [Trench]()
  
-# My Repository
+# 📄 My Repository
 ## Gradle 🐘
 - ### Normal
 ```gradle
