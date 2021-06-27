@@ -1,4 +1,4 @@
-
+![Metrics](https://github.com/Ratsiiel/Ratsiiel/blob/repository/github-metrics.svg)
 
 
 ## Data:
