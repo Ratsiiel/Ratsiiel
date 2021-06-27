@@ -18,11 +18,8 @@ jobs:
           # Options
           user: Ratsiiel
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: Europe/Berlin
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_introduction_description: "Test"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
